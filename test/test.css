@@ -1,3 +1,23 @@
-.tall {
-    height: 10em;
+.tall-gallery-1 {
+    height: 2em;
+}
+
+.tall-gallery-2 {
+    height: 8em;
+}
+
+.tall-title {
+    height: 2em;
+}
+
+.tall-buybox {
+    height: 8em;
+}
+
+.tall-description {
+    height: 5em;
+}
+
+.tall-related {
+    height: 5em;
 }
