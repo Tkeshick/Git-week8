@@ -1,0 +1,28 @@
+.block__title-tall {
+    height: 330px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title__warmwelcome {
+    font-size: 50pt;
+    font-weight: 300;
+
+}
+
+.block__warmwelcome-text {
+    font-weight: 300;
+}
+
+.button__warmwelcome {
+    width: 15em;
+    margin-top: 1em;
+}
+
+.footer__text {
+    height: 5em;
+    font-size: 10pt;
+    justify-content: center;
+    align-items: flex-end;
+    padding-bottom: 1em;
+}
